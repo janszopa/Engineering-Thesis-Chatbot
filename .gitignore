@@ -1,0 +1,37 @@
+# --- Python / virtualenv ---
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pdb
+*.egg-info/
+dist/
+build/
+
+# --- IDE / systemowe ---
+.idea/
+.vscode/
+*.iml
+.DS_Store
+Thumbs.db
+
+# --- Jupyter / notatniki ---
+.ipynb_checkpoints/
+
+# --- Dane / indeksy lokalne ---
+chroma_db/
+*.sqlite
+*.db
+
+# Dane tymczasowe / pomocnicze
+# data/tmp/
+# logs/
+# outputs/
+
+# Cache modeli 
+.huggingface/
+cache/
+*/__pycache__/
