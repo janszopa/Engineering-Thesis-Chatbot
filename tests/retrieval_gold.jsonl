@@ -1,0 +1,25 @@
+{"id": "q1", "question": "Jaka jest definicja projektu?", "relevant_ids": ["wyklad1_s11_c1"]}
+{"id": "q2", "question": "Jakie są podstawowe cechy projektu (sekwencyjność, niepowtarzalność, złożoność, powiązania, cel, czas i zasoby)?", "relevant_ids": ["wyklad1_s12_c1", "wyklad1_s12_c2", "wyklad1_s12_c3"]}
+{"id": "q3", "question": "Jakie wymagania stawia się projektowi w zakresie zakresu, jakości, kosztu, czasu i zasobów?", "relevant_ids": ["wyklad1_s13_c1", "wyklad1_s13_c2"]}
+{"id": "q4", "question": "Na czym polega ryzyko projektu i jak wiąże się ono z wartością ekonomiczną projektu?", "relevant_ids": ["wyklad1_s14_c1"]}
+{"id": "q5", "question": "Na czym polega istota zarządzania projektami?", "relevant_ids": ["wyklad1_s18_c1"]}
+{"id": "q6", "question": "Jakie metodyki zarządzania projektami są wymieniane na wykładzie i czym się ogólnie charakteryzują?", "relevant_ids": ["wyklad1_s19_c1"]}
+{"id": "q7", "question": "Jakie są główne fazy klasycznego cyklu życia projektu?", "relevant_ids": ["wyklad1_s22_c1", "wyklad1_s22_c2", "wyklad1_s22_c3", "wyklad1_s22_c4"]}
+{"id": "q8", "question": "Jakie modele realizacji projektu są wyróżniane i czym się różnią?", "relevant_ids": ["wyklad1_s24_c1"]}
+{"id": "q9", "question": "Czym jest statut projektu i jaką pełni rolę?", "relevant_ids": ["wyklad2_s5_c1"]}
+{"id": "q10", "question": "Czym jest struktura podziału pracy WBS w projekcie?", "relevant_ids": ["wyklad2_s10_c1"]}
+{"id": "q11", "question": "Jak przebiega tworzenie WBS i na czym polega hierarchiczne definiowanie zadań?", "relevant_ids": ["wyklad2_s10_c2"]}
+{"id": "q12", "question": "Czym są warunki satysfakcji i kryteria sukcesu projektu oraz jaka jest relacja między nimi?", "relevant_ids": ["wyklad2_s4_c2", "wyklad2_s4_c3"]}
+{"id": "q13", "question": "Jakie rodzaje struktur organizacyjnych mogą występować w projektach i czym się charakteryzują?", "relevant_ids": ["wyklad2_s16_c1"]}
+{"id": "q14", "question": "Na czym polega metodyka Lean w kontekście zarządzania projektami?", "relevant_ids": ["wyklad1_s21_c1"]}
+{"id": "q15", "question": "Czym jest narzędzie JIRA i w jakim kontekście projektowym jest wykorzystywane?", "relevant_ids": ["wyklad13_s26_c1"]}
+{"id": "q16", "question": "Na czym polega zarządzanie oczekiwaniami klienta w projekcie?", "relevant_ids": ["wyklad2_s4_c1"]}
+{"id": "q17", "question": "Czym jest plan projektu i jaką pełni rolę?", "relevant_ids": ["wyklad2_s9_c1"]}
+{"id": "q18", "question": "Na czym polega technika trzech punktów w prognozowaniu czasu lub kosztów?", "relevant_ids": ["wyklad3_s3_c2"]}
+{"id": "q19", "question": "Czym jest Planning Poker i do czego służy?", "relevant_ids": ["wyklad3_s3_c4"]}
+{"id": "q20", "question": "Jaka jest definicja ryzyka w projekcie?", "relevant_ids": ["wyklad4_s3_c1"]}
+{"id": "q21", "question": "Jakie są główne etapy procesu zarządzania ryzykiem?", "relevant_ids": ["wyklad4_s4_c1"]}
+{"id": "q22", "question": "Co opisuje piramida DIKW w kontekście danych, informacji, wiedzy i mądrości?", "relevant_ids": ["wyklad13_s3_c3"]}
+{"id": "q23", "question": "Czym jest wiedza ukryta według Polanyiego?", "relevant_ids": ["wyklad13_s4_c1"]}
+{"id": "q24", "question": "Na czym polega model SECI Nonaki w zarządzaniu wiedzą?", "relevant_ids": ["wyklad13_s7_c3"]}
+{"id": "q25", "question": "Jakie są trzy filary Scrum i jaką pełnią rolę?", "relevant_ids": ["wyklad10_s8_c1"]}

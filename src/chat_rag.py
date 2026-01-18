@@ -18,9 +18,9 @@ def parse_args() -> argparse.Namespace:
     )
     parser.add_argument(
         "--retriever",
-        choices=["lexical", "semantic"],
+        choices=["lexical", "semantic", "hybrid"],
         default="lexical",
-        help="Rodzaj retrievera: lexical lub semantic",
+        help="Rodzaj retrievera: lexical, semantic lub hybrid",
     )
     parser.add_argument(
         "--persist-dir",

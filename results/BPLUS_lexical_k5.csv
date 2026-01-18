@@ -1,0 +1,26 @@
+variant,retriever,k,question_id,question,relevant_ids,retrieved_ids,hit,rank
+BPLUS,lexical,5,q1,Jaka jest definicja projektu?,wyklad1_s11_c1,wyklad1_s11_c1|wyklad4_s3_c1|wyklad2_s5_c1|wyklad6_s13_c2|wyklad2_s3_c1,1,1
+BPLUS,lexical,5,q2,"Jakie są podstawowe cechy projektu (sekwencyjność, niepowtarzalność, złożoność, powiązania, cel, czas i zasoby)?",wyklad1_s12_c1|wyklad1_s12_c2|wyklad1_s12_c3,wyklad1_s15_c4|wyklad1_s12_c1|wyklad2_s27_c1|wyklad13_s36_c1|wyklad2_s5_c2,1,2
+BPLUS,lexical,5,q3,"Jakie wymagania stawia się projektowi w zakresie zakresu, jakości, kosztu, czasu i zasobów?",wyklad1_s13_c1|wyklad1_s13_c2,wyklad6_s11_c2|wyklad2_s9_c3|wyklad12_s12_c1|wyklad7_s15_c1|wyklad4_s13_c1,0,
+BPLUS,lexical,5,q4,Na czym polega ryzyko projektu i jak wiąże się ono z wartością ekonomiczną projektu?,wyklad1_s14_c1,wyklad1_s14_c1|wyklad3_s3_c1|wyklad4_s10_c2|wyklad10_s25_c1|wyklad13_s37_c1,1,1
+BPLUS,lexical,5,q5,Na czym polega istota zarządzania projektami?,wyklad1_s18_c1,wyklad13_s35_c1|wyklad13_s22_c1|wyklad1_s18_c2|wyklad13_s38_c1|wyklad13_s31_c1,0,
+BPLUS,lexical,5,q6,Jakie metodyki zarządzania projektami są wymieniane na wykładzie i czym się ogólnie charakteryzują?,wyklad1_s19_c1,wyklad13_s22_c1|wyklad10_s4_c1|wyklad13_s38_c1|wyklad13_s35_c1|wyklad10_s3_c1,0,
+BPLUS,lexical,5,q7,Jakie są główne fazy klasycznego cyklu życia projektu?,wyklad1_s22_c1|wyklad1_s22_c2|wyklad1_s22_c3|wyklad1_s22_c4,wyklad6_s16_c1|wyklad7_s43_c1|wyklad6_s8_c2|wyklad6_s3_c3|wyklad12_s12_c1,0,
+BPLUS,lexical,5,q8,Jakie modele realizacji projektu są wyróżniane i czym się różnią?,wyklad1_s24_c1,wyklad1_s24_c1|wyklad1_s13_c2|wyklad5_s8_c2|wyklad12_s26_c1|wyklad3_s20_c1,1,1
+BPLUS,lexical,5,q9,Czym jest statut projektu i jaką pełni rolę?,wyklad2_s5_c1,wyklad2_s5_c1|wyklad2_s7_c1|wyklad10_s16_c1|wyklad6_s7_c2|wyklad10_s21_c1,1,1
+BPLUS,lexical,5,q10,Czym jest struktura podziału pracy WBS w projekcie?,wyklad2_s10_c1,wyklad2_s10_c1|wyklad2_s10_c2|wyklad7_s5_c1|wyklad2_s14_c1|wyklad2_s12_c1,1,1
+BPLUS,lexical,5,q11,Jak przebiega tworzenie WBS i na czym polega hierarchiczne definiowanie zadań?,wyklad2_s10_c2,wyklad2_s10_c2|wyklad3_s8_c1|wyklad2_s10_c1|wyklad5_s8_c1|wyklad2_s12_c1,1,1
+BPLUS,lexical,5,q12,Czym są warunki satysfakcji i kryteria sukcesu projektu oraz jaka jest relacja między nimi?,wyklad2_s4_c2|wyklad2_s4_c3,wyklad2_s4_c3|wyklad2_s4_c2|wyklad2_s6_c1|wyklad1_s22_c1|wyklad5_s4_c2,1,1
+BPLUS,lexical,5,q13,Jakie rodzaje struktur organizacyjnych mogą występować w projektach i czym się charakteryzują?,wyklad2_s16_c1,wyklad7_s7_c1|wyklad12_s12_c1|wyklad7_s29_c1|wyklad11_s15_c1|wyklad3_s13_c1,0,
+BPLUS,lexical,5,q14,Na czym polega metodyka Lean w kontekście zarządzania projektami?,wyklad1_s21_c1,wyklad1_s21_c1|wyklad6_s3_c1|wyklad13_s35_c1|wyklad13_s22_c1|wyklad1_s18_c2,1,1
+BPLUS,lexical,5,q15,Czym jest narzędzie JIRA i w jakim kontekście projektowym jest wykorzystywane?,wyklad13_s26_c1,wyklad13_s29_c1|wyklad13_s26_c1|wyklad2_s3_c1|wyklad1_s12_c1|wyklad6_s15_c1,1,2
+BPLUS,lexical,5,q16,Na czym polega zarządzanie oczekiwaniami klienta w projekcie?,wyklad2_s4_c1,wyklad2_s4_c1|wyklad1_s18_c1|wyklad1_s22_c4|wyklad4_s10_c2|wyklad4_s5_c1,1,1
+BPLUS,lexical,5,q17,Czym jest plan projektu i jaką pełni rolę?,wyklad2_s9_c1,wyklad7_s19_c1|wyklad7_s22_c1|wyklad2_s9_c1|wyklad10_s16_c1|wyklad6_s7_c2,1,3
+BPLUS,lexical,5,q18,Na czym polega technika trzech punktów w prognozowaniu czasu lub kosztów?,wyklad3_s3_c2,wyklad3_s3_c2|wyklad3_s3_c4|wyklad6_s9_c2|wyklad11_s15_c1|wyklad3_s5_c1,1,1
+BPLUS,lexical,5,q19,Czym jest Planning Poker i do czego służy?,wyklad3_s3_c4,wyklad3_s3_c4|wyklad10_s19_c1|wyklad7_s10_c1|wyklad7_s47_c1|wyklad3_s13_c1,1,1
+BPLUS,lexical,5,q20,Jaka jest definicja ryzyka w projekcie?,wyklad4_s3_c1,wyklad4_s5_c3|wyklad4_s6_c1|wyklad4_s7_c2|wyklad4_s3_c1|wyklad4_s4_c2,1,4
+BPLUS,lexical,5,q21,Jakie są główne etapy procesu zarządzania ryzykiem?,wyklad4_s4_c1,wyklad4_s7_c3|wyklad7_s24_c1|wyklad1_s15_c1|wyklad7_s26_c1|wyklad11_s4_c1,0,
+BPLUS,lexical,5,q22,"Co opisuje piramida DIKW w kontekście danych, informacji, wiedzy i mądrości?",wyklad13_s3_c3,wyklad13_s3_c3|wyklad5_s13_c1|wyklad13_s7_c3|wyklad13_s8_c1|wyklad13_s21_c1,1,1
+BPLUS,lexical,5,q23,Czym jest wiedza ukryta według Polanyiego?,wyklad13_s4_c1,wyklad13_s4_c1|wyklad13_s3_c1|wyklad12_s14_c1|wyklad3_s3_c1|wyklad5_s4_c1,1,1
+BPLUS,lexical,5,q24,Na czym polega model SECI Nonaki w zarządzaniu wiedzą?,wyklad13_s7_c3,wyklad13_s7_c3|wyklad4_s12_c1|wyklad13_s9_c1|wyklad1_s16_c2|wyklad13_s16_c1,1,1
+BPLUS,lexical,5,q25,Jakie są trzy filary Scrum i jaką pełnią rolę?,wyklad10_s8_c1,wyklad10_s8_c1|wyklad12_s12_c1|wyklad10_s9_c1|wyklad10_s7_c1|wyklad10_s13_c1,1,1
